@@ -3,5 +3,6 @@
 		"noImplicitAny": true,
 		"outDir": "./dist",
 		"target": "es2015"
-	}
+	},
+	"include": ["src/**/*"]
 }
